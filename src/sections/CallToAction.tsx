@@ -17,11 +17,13 @@ export const CallToAction = () => {
             src={starImage}
             alt="Star"
             className="absolute -left-[350px] -top-[137px]"
+            width={360}
           />
           <Image
             src={springImage}
             alt="Spring"
             className="absolute -right-[301px] -top-[19px]"
+            width={360}
           />
         </div>
 
